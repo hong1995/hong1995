@@ -2,10 +2,10 @@
 <a href="https://github.com/hong1995?tab=repositories" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://https://www.facebook.com/jaehongj2/" target="_blank">
+<a href="https://www.facebook.com/jaehong1995/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://https://www.instagram.com/h0ng95/?hl=ko" target="_blank">
+<a href="https://www.instagram.com/h0ng95/?hl=ko" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="whwoghd1234523@gmail.com">
