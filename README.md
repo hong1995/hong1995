@@ -24,10 +24,6 @@
 </a>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </a>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
-</a>
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-</a>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/
@@ -41,13 +37,12 @@
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>
 </a>
 
-## Github Stats  
+## Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=hong1995&show_icons=true&theme=highcontrast" align="left" style="width: 100%" />
 </td><td valign="top" width="50%">
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=h0ng)](https://solved.ac/malkoring) 
+<img align='' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=h0ng">
 
 <!--
 **hong1995/hong1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
