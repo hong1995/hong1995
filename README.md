@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jahong%20Jo&fontSize=90)
 
 ### Welcom to my Github!👋👋👋
-<a href="https://hong1995.github.io/" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=flat-square&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://hongcode.tistory.com/" target="_blank">
+<img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logoColor=white"/>
 </a>
 <a href="https://www.facebook.com/jaehong1995/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=flat-square&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
