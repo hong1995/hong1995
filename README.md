@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jahong%20Jo&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jaehong%20Jo&fontSize=90)
 
 ### Welcom to my Github!👋👋👋
 <a href="https://hongcode.tistory.com/" target="_blank">
