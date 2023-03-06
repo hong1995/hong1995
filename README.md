@@ -1,60 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jaehong%20Jo&fontSize=90)
+### 🤞 Nice way to meet me
+<p>
+  <a href="https://hongcode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_blog-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%EC%9E%AC%ED%99%8D-%EC%A1%B0-89a406252/" target="_blank"><img src="https://img.shields.io/badge/JaehongJo-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+   <a href="https://gravel-bloom-e33.notion.site/portfolio-40ee26f5d2a942ab9c4c845ef4164cbb" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+  <a href="whwoghd1234523@gmail.com" target="_blank"><img src="https://img.shields.io/badge/whwoghd1234523@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 
-### Welcom to my Github!👋👋👋
-<a href="https://hongcode.tistory.com/" target="_blank">
-<img src="https://img.shields.io/badge/Tech_Blog-DD0B78?style=flat-square&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/jaehong1995/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=flat-square&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/h0ng95/?hl=ko" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=flat-square&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="whwoghd1234523@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+<p>
+  👋&nbsp; Hello, my name is Jae Hong Jo, and I am a backend developer who is passionate about personal growth.<br/>
+  I enjoy taking on new challenges and finding pleasure in immersing myself in learning.<br/>
+  My primary focus has been on developing with Node.js, and currently, I am studying Nest.js.<br/>
+  In order to develop deeper applications, I am also studying infrastructure and database-related knowledge and applying it to my personal projects.
+</p>
 
+
+### 💪 Skills
+#### Platforms & Languages
+<p>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
   
-### 💫 Experience
-  - 2022.04.04 ~ 07.22 : 엘라스 SW 엔지니어 트랙 2기
-  - 2022.04.18 ~ 06.02 : 유데미 프밍 스터디 멘토
-  - 2022.08.08 ~ : 아임웹 인턴
-  <br/>
-  
-## Language & Tools (Interest & Techs that i've used at least once)
-  <div sttyle='float:left'>
-</a>
-<img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=flat-square&logo=c%2B%2B&ogoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
-</a>
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
-</a>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
-
-    
-    
-    
-
-## Now I'm Studying..
-<div sttyle='float:left'>
-
-</a>
-<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white"/>
-</a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"/>
-</a>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+</p>
 
 
 ## Stats  
