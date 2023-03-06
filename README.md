@@ -3,7 +3,8 @@
   <a href="https://hongcode.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_blog-535D6C?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%9E%AC%ED%99%8D-%EC%A1%B0-89a406252/" target="_blank"><img src="https://img.shields.io/badge/JaehongJo-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
    <a href="https://gravel-bloom-e33.notion.site/portfolio-40ee26f5d2a942ab9c4c845ef4164cbb" target="_blank"><img src="https://img.shields.io/badge/portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-  <a href="whwoghd1234523@gmail.com" target="_blank"><img src="https://img.shields.io/badge/whwoghd1234523@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:whwoghd1234523@gmail.com" target="_blank"><img src="https://img.shields.io/badge/whwoghd1234523@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
 </p>
 
 <p>
